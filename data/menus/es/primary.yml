@@ -1,8 +1,20 @@
 ---
 title: Menu principal
 items:
+- title: Actualités
+  target: "/es/actualites/"
+  kind: page
+  children: []
 - title: Projets
   target: "/es/projets/"
+  kind: page
+  children: []
+- title: Équipe
+  target: "/es/equipe/"
+  kind: page
+  children: []
+- title: Organisations
+  target: "/es/organisations/"
   kind: page
   children: []
 
