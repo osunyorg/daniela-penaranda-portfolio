@@ -13,3 +13,40 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
+
+[[redirects]]
+from = "/politique-de-confidentialite/"
+to = "/fr/politique-de-confidentialite/"
+
+[[redirects]]
+from = "/equipe/equipe-editoriale/"
+to = "/fr/equipe/equipe-editoriale/"
+
+[[redirects]]
+from = "/organisations/"
+to = "/fr/organisations/"
+
+[[redirects]]
+from = "/mentions-legales/"
+to = "/fr/mentions-legales/"
+
+[[redirects]]
+from = "/accessibilite/"
+to = "/fr/accessibilite/"
+
+[[redirects]]
+from = "/actualites/"
+to = "/fr/actualites/"
+
+[[redirects]]
+from = "/equipe/"
+to = "/fr/equipe/"
+
+[[redirects]]
+from = "/projets/"
+to = "/fr/projets/"
+
+[[redirects]]
+from = "/plan-du-site/"
+to = "/fr/plan-du-site/"
+
